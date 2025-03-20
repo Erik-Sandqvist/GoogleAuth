@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{54511819-7CBD-41EC-AF8F-12A387A21B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csproj", "{733BBF53-73AE-4AB0-9AD3-7F02A9C2248B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{92910037-35CC-4214-9B24-7B3BD062F2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54511819-7CBD-41EC-AF8F-12A387A21B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54511819-7CBD-41EC-AF8F-12A387A21B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54511819-7CBD-41EC-AF8F-12A387A21B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54511819-7CBD-41EC-AF8F-12A387A21B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733BBF53-73AE-4AB0-9AD3-7F02A9C2248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733BBF53-73AE-4AB0-9AD3-7F02A9C2248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733BBF53-73AE-4AB0-9AD3-7F02A9C2248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733BBF53-73AE-4AB0-9AD3-7F02A9C2248B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92910037-35CC-4214-9B24-7B3BD062F2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92910037-35CC-4214-9B24-7B3BD062F2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92910037-35CC-4214-9B24-7B3BD062F2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92910037-35CC-4214-9B24-7B3BD062F2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
