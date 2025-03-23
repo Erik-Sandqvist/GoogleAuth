@@ -3,6 +3,7 @@ using Api.Services;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Shared;
 using System.Security.Claims;
 using System.Text.Encodings.Web;
 

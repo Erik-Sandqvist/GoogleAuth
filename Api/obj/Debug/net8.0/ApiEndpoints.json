@@ -2,7 +2,7 @@
   {
     "ContainingType": "Api.Controllers.AuthorizeController",
     "Method": "Authorize",
-    "RelativePath": "api/Authorize",
+    "RelativePath": "Authorize",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -12,7 +12,7 @@
   {
     "ContainingType": "Api.Controllers.AuthorizeController",
     "Method": "Callback",
-    "RelativePath": "api/Authorize/callback",
+    "RelativePath": "Authorize/callback",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -28,7 +28,7 @@
   {
     "ContainingType": "Api.Controllers.AuthorizeController",
     "Method": "GetAccessToken",
-    "RelativePath": "api/Authorize/token/{userId}",
+    "RelativePath": "Authorize/token/{userId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

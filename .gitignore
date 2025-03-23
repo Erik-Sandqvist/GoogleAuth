@@ -4,3 +4,5 @@
 
 /.vs/DemoGoogleAuthInAPIBlazorWasm/copilot-chat/a94ddd00/sessions
 /.vs/ProjectEvaluation/demogoogleauthinapiblazorwasm.metadata.v9.bin
+# .gitignore
+.vs/
