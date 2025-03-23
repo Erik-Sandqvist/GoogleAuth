@@ -1,0 +1,14 @@
+﻿@page "/login"
+ 
+<button class="btn btn-primary" @onclick="LoginAsync">Login With Google</button>
+@code {
+    async Task LoginAsync()
+    {
+        var client = HttpClientFactory.CreateClient(Constant.Client);
+        var result = await client.GetAsync("authorize"); 
+        if (result.IsSuccessStatusCode)        
+         NavManager.NavigateTo(await result.Content.ReadAsStringAsync());
+     
+    }
+
+}

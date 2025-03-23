@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Authorize": {
+    "/Authorize": {
       "get": {
         "tags": [
           "Authorize"
@@ -17,7 +17,7 @@
         }
       }
     },
-    "/api/Authorize/callback": {
+    "/Authorize/callback": {
       "get": {
         "tags": [
           "Authorize"
@@ -38,7 +38,7 @@
         }
       }
     },
-    "/api/Authorize/token/{userId}": {
+    "/Authorize/token/{userId}": {
       "get": {
         "tags": [
           "Authorize"

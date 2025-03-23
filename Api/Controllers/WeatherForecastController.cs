@@ -1,6 +1,7 @@
 using Api.TokenHandler;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Shared;
 
 namespace Api.Controllers
 {

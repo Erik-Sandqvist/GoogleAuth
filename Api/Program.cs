@@ -16,10 +16,10 @@ builder.Services.AddDbContext<AppDbContext>
 
 builder.Services.AddAuthentication(options =>
 {
-    options.DefaultAuthenticateScheme = Api.TokenHandler.Constant.Scheme;
+    options.DefaultAuthenticateScheme = Shared.Constant.Scheme;
     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 }).AddScheme<AuthenticationSchemeOptions,
-    GoogleAccessTokenAuthenticationHandler>(Api.TokenHandler.Constant.Scheme, null)
+    GoogleAccessTokenAuthenticationHandler>(Shared.Constant.Scheme, null)
 .AddGoogle(options =>
 {
     options.ClientId = builder.Configuration["Google:ClientId"]!;

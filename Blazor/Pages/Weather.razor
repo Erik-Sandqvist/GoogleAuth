@@ -1,13 +1,19 @@
 ﻿@page "/weather"
-@inject HttpClient Http
+@using System.Text.Json
+@using Blazor.Models
+@inject IHttpClientFactory httpClientFactory
+@inject ILocalStorageService localStorageService
 
 <PageTitle>Weather</PageTitle>
 
 <h1>Weather</h1>
 
-<p>This component demonstrates fetching data from the server.</p>
 
-@if (forecasts == null)
+@if (forecasts == null && string.IsNullOrEmpty(token))
+{
+    <p><em>You need to sign in to see weather.</em></p>
+}
+else if (forecasts == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -36,22 +42,25 @@ else
     </table>
 }
 
+
 @code {
     private WeatherForecast[]? forecasts;
+    private string? token;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
-    }
+        token = await localStorageService.GetItemAsStringAsync(Constant.Key);
+        if (!string.IsNullOrEmpty(token))
+        {
+            var client = httpClientFactory.CreateClient(Constant.Client);
+            var tokenModel = JsonSerializer.Deserialize<Token>(token);
+            client.DefaultRequestHeaders.Authorization =
+                new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", tokenModel!.AccessToken);
 
-    public class WeatherForecast
-    {
-        public DateOnly Date { get; set; }
-
-        public int TemperatureC { get; set; }
-
-        public string? Summary { get; set; }
-
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+            forecasts = await client.GetFromJsonAsync<WeatherForecast[]>("weatherforecast");
+        }
     }
 }
+
+
+ 
