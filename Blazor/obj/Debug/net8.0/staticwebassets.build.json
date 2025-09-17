@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QbZ5a1zMEk1HUCoZ4B9Gi/jFn96lvG5meBfpqEyuJ3g=",
+  "Hash": "zubae5V1YGwle8Wtc6UF3PtGUctYFAalQrzjDoghepc=",
   "Source": "Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "zqypyqr12s",
-      "Integrity": "1Yl6LyIylZ/SWojJ+sRBHxQO81w+OE7SKIW2PzVLcUU=",
+      "Fingerprint": "9j7useh361",
+      "Integrity": "WxrjFYKGnb6xAMh1vW/yhs1I6tPLzI0Q8pQlp55JYXE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "of4gfjhi60",
-      "Integrity": "jFpjpx5PkRWmN7ec6Tdw+tz5q31OQo830CeSpTJNf4o=",
+      "Fingerprint": "zdr3l63drh",
+      "Integrity": "ZypCQDRNPQRADxvCvPGUV9bGl0BZSAWdK7cNrjBrqkQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Blazor.pdb"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "b2sdm5p8v1",
-      "Integrity": "U2kQtY9HkgowZU+gOr+76p9nhmYt+z8kVWzo05+jFyA=",
+      "Fingerprint": "7jj8rc6zed",
+      "Integrity": "498oF3ru1Uogdjm2Gi9R9fWjNlrQCLrSRCg76QSVaSg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\webcil\\Blazor.wasm"
@@ -5288,7 +5288,7 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\mscorlib.wasm"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-of4gfjhi60.gz",
+      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-zdr3l63drh.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\",
@@ -5302,8 +5302,8 @@
       "RelatedAsset": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iiwt9t0myz",
-      "Integrity": "2gYIFVVF2jxZW0iUCuIbHI24RGPxo+hz1tbyXGhRuBo=",
+      "Fingerprint": "v84nbhyidn",
+      "Integrity": "P+SoRFZSpbJhJSCqJgP9ehSW0yBHi5HkDiiFSI9eHJ0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazor.pdb"
@@ -7010,7 +7010,7 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-b2sdm5p8v1.gz",
+      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-7jj8rc6zed.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\",
@@ -7024,8 +7024,8 @@
       "RelatedAsset": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uc6viqjn5m",
-      "Integrity": "EuRkRdajMQzA3OQ4LkqAdLogvLXyDaGRMtqYe8yBLpk=",
+      "Fingerprint": "sscnbqb8ag",
+      "Integrity": "jONAGkEuCktoV6IE+P3jGu3vtJI2SDehFNqpzBeFv5E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazor.wasm"
@@ -7682,7 +7682,7 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.wasm"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-zqypyqr12s.gz",
+      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-9j7useh361.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\",
@@ -7696,8 +7696,8 @@
       "RelatedAsset": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jysfs0ei79",
-      "Integrity": "WzzXldws0k4mdbH7o94YHhTtDYD4gHG4BQhRsBJeDOY=",
+      "Fingerprint": "03akul0ewn",
+      "Integrity": "9L09qpYZiWH7ceP0J0Fpyz3igHu8Ur4XgZ9pLtgGueM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9019,8 +9019,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "swsybuv5hr",
-      "Integrity": "JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "Fingerprint": "ctbiojj101",
+      "Integrity": "sD/xE+kOrqfVDX8tGGdBGTdSVhdeSRuv9l2jjrK+fSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -9193,7 +9193,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1Yl6LyIylZ/SWojJ+sRBHxQO81w+OE7SKIW2PzVLcUU=\""
+          "Value": "\"WxrjFYKGnb6xAMh1vW/yhs1I6tPLzI0Q8pQlp55JYXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:49:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WxrjFYKGnb6xAMh1vW/yhs1I6tPLzI0Q8pQlp55JYXE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-9j7useh361.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000108861311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9185"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9L09qpYZiWH7ceP0J0Fpyz3igHu8Ur4XgZ9pLtgGueM=\""
         },
         {
           "Name": "Last-Modified",
@@ -9202,45 +9241,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1Yl6LyIylZ/SWojJ+sRBHxQO81w+OE7SKIW2PzVLcUU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-zqypyqr12s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000108896875"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9182"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WzzXldws0k4mdbH7o94YHhTtDYD4gHG4BQhRsBJeDOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9256,19 +9256,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1Yl6LyIylZ/SWojJ+sRBHxQO81w+OE7SKIW2PzVLcUU=\""
+          "Value": "W/\"WxrjFYKGnb6xAMh1vW/yhs1I6tPLzI0Q8pQlp55JYXE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1Yl6LyIylZ/SWojJ+sRBHxQO81w+OE7SKIW2PzVLcUU="
+          "Value": "sha256-WxrjFYKGnb6xAMh1vW/yhs1I6tPLzI0Q8pQlp55JYXE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-zqypyqr12s.gz",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\peinipbwwh-9j7useh361.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9277,7 +9277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9182"
+          "Value": "9185"
         },
         {
           "Name": "Content-Type",
@@ -9285,11 +9285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WzzXldws0k4mdbH7o94YHhTtDYD4gHG4BQhRsBJeDOY=\""
+          "Value": "\"9L09qpYZiWH7ceP0J0Fpyz3igHu8Ur4XgZ9pLtgGueM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:45 GMT"
+          "Value": "Sat, 22 Mar 2025 20:55:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9307,7 +9307,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WzzXldws0k4mdbH7o94YHhTtDYD4gHG4BQhRsBJeDOY="
+          "Value": "sha256-9L09qpYZiWH7ceP0J0Fpyz3igHu8Ur4XgZ9pLtgGueM="
         }
       ]
     },
@@ -9322,7 +9322,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32788"
+          "Value": "32600"
         },
         {
           "Name": "Content-Type",
@@ -9330,7 +9330,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jFpjpx5PkRWmN7ec6Tdw+tz5q31OQo830CeSpTJNf4o=\""
+          "Value": "\"ZypCQDRNPQRADxvCvPGUV9bGl0BZSAWdK7cNrjBrqkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:49:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZypCQDRNPQRADxvCvPGUV9bGl0BZSAWdK7cNrjBrqkQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazor.pdb",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-zdr3l63drh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041342815"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24187"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+SoRFZSpbJhJSCqJgP9ehSW0yBHi5HkDiiFSI9eHJ0=\""
         },
         {
           "Name": "Last-Modified",
@@ -9339,45 +9378,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jFpjpx5PkRWmN7ec6Tdw+tz5q31OQo830CeSpTJNf4o="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Blazor.pdb",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-of4gfjhi60.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000041341105"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24188"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2gYIFVVF2jxZW0iUCuIbHI24RGPxo+hz1tbyXGhRuBo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9393,19 +9393,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jFpjpx5PkRWmN7ec6Tdw+tz5q31OQo830CeSpTJNf4o=\""
+          "Value": "W/\"ZypCQDRNPQRADxvCvPGUV9bGl0BZSAWdK7cNrjBrqkQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jFpjpx5PkRWmN7ec6Tdw+tz5q31OQo830CeSpTJNf4o="
+          "Value": "sha256-ZypCQDRNPQRADxvCvPGUV9bGl0BZSAWdK7cNrjBrqkQ="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.pdb.gz",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-of4gfjhi60.gz",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\6rth71zbku-zdr3l63drh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9414,7 +9414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24188"
+          "Value": "24187"
         },
         {
           "Name": "Content-Type",
@@ -9422,11 +9422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2gYIFVVF2jxZW0iUCuIbHI24RGPxo+hz1tbyXGhRuBo=\""
+          "Value": "\"P+SoRFZSpbJhJSCqJgP9ehSW0yBHi5HkDiiFSI9eHJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:44 GMT"
+          "Value": "Sat, 22 Mar 2025 20:55:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9444,7 +9444,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2gYIFVVF2jxZW0iUCuIbHI24RGPxo+hz1tbyXGhRuBo="
+          "Value": "sha256-P+SoRFZSpbJhJSCqJgP9ehSW0yBHi5HkDiiFSI9eHJ0="
         }
       ]
     },
@@ -9467,7 +9467,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U2kQtY9HkgowZU+gOr+76p9nhmYt+z8kVWzo05+jFyA=\""
+          "Value": "\"498oF3ru1Uogdjm2Gi9R9fWjNlrQCLrSRCg76QSVaSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:49:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-498oF3ru1Uogdjm2Gi9R9fWjNlrQCLrSRCg76QSVaSg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazor.wasm",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-7jj8rc6zed.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000072458517"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13800"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jONAGkEuCktoV6IE+P3jGu3vtJI2SDehFNqpzBeFv5E=\""
         },
         {
           "Name": "Last-Modified",
@@ -9476,45 +9515,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-U2kQtY9HkgowZU+gOr+76p9nhmYt+z8kVWzo05+jFyA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Blazor.wasm",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-b2sdm5p8v1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000072390329"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13813"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EuRkRdajMQzA3OQ4LkqAdLogvLXyDaGRMtqYe8yBLpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9530,19 +9530,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U2kQtY9HkgowZU+gOr+76p9nhmYt+z8kVWzo05+jFyA=\""
+          "Value": "W/\"498oF3ru1Uogdjm2Gi9R9fWjNlrQCLrSRCg76QSVaSg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U2kQtY9HkgowZU+gOr+76p9nhmYt+z8kVWzo05+jFyA="
+          "Value": "sha256-498oF3ru1Uogdjm2Gi9R9fWjNlrQCLrSRCg76QSVaSg="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.wasm.gz",
-      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-b2sdm5p8v1.gz",
+      "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\obj\\Debug\\net8.0\\compressed\\kftniz9lkm-7jj8rc6zed.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9551,7 +9551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13813"
+          "Value": "13800"
         },
         {
           "Name": "Content-Type",
@@ -9559,11 +9559,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EuRkRdajMQzA3OQ4LkqAdLogvLXyDaGRMtqYe8yBLpk=\""
+          "Value": "\"jONAGkEuCktoV6IE+P3jGu3vtJI2SDehFNqpzBeFv5E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 19:49:44 GMT"
+          "Value": "Sat, 22 Mar 2025 20:55:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9581,7 +9581,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EuRkRdajMQzA3OQ4LkqAdLogvLXyDaGRMtqYe8yBLpk="
+          "Value": "sha256-jONAGkEuCktoV6IE+P3jGu3vtJI2SDehFNqpzBeFv5E="
         }
       ]
     },
@@ -38530,7 +38530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3782"
+          "Value": "3864"
         },
         {
           "Name": "Content-Type",
@@ -38538,11 +38538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+          "Value": "\"sD/xE+kOrqfVDX8tGGdBGTdSVhdeSRuv9l2jjrK+fSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 17:42:34 GMT"
+          "Value": "Sun, 23 Mar 2025 19:49:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38552,12 +38552,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+          "Value": "sha256-sD/xE+kOrqfVDX8tGGdBGTdSVhdeSRuv9l2jjrK+fSM="
         }
       ]
     },
     {
-      "Route": "css/app.swsybuv5hr.css",
+      "Route": "css/app.ctbiojj101.css",
       "AssetFile": "C:\\Users\\Administrator\\Documents\\GitHub\\Google-Auth\\DemoGoogleAuthInAPIBlazorWasm\\Blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -38567,7 +38567,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3782"
+          "Value": "3864"
         },
         {
           "Name": "Content-Type",
@@ -38575,11 +38575,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+          "Value": "\"sD/xE+kOrqfVDX8tGGdBGTdSVhdeSRuv9l2jjrK+fSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 17:42:34 GMT"
+          "Value": "Sun, 23 Mar 2025 19:49:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38589,7 +38589,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "swsybuv5hr"
+          "Value": "ctbiojj101"
         },
         {
           "Name": "label",
@@ -38597,7 +38597,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+          "Value": "sha256-sD/xE+kOrqfVDX8tGGdBGTdSVhdeSRuv9l2jjrK+fSM="
         }
       ]
     },
